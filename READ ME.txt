@@ -1,0 +1,8 @@
+---start project----
+1. cd ./playerduo
+2. run "npm install"
+3. run "expo start"
+4. download expo to your mobile, and scan QR code in step 3
+
+5. cd ./SERVER
+6. run "node Server.js" to run server socket
